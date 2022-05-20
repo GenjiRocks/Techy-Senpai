@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Techy-Senpai
+- 👀 I’m interested in game devolopment & 3D Designing
+- 🌱 I’m currently learning Unity Development
+- 
